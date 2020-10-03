@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>About Us</title>
+	<meta name="generator" content="BBEdit 13.1" />
+
+<style>
+
+.sansserif {
+  font-family: Georgia, Arial, sans-serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+    height: 30%;
+	}
+
+div {
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 75px;
+  margin-left: 75px;
+
+}
+
+div.a {
+  text-align: center;
+}
+div.b {
+  text-align: justify;
+}
+
+</style>
+
+<head>
+	<title>Introduction</title>
+	<meta name="generator" content="BBEdit 13.1" />
+</head>
+<body>
+
+<div class="a">
+<h1 class="sansserif">About Us</h1>
+
+
+<h2 class="sansserif">Elizabeth Dickinsen Karrer</h2>
+</div class="a">
+
+<img src="Proof004 copy.jpg" width="300" height="200" alt="Elizabeth, Isaac, and Gizmo" class="center" >
+
+<div class="b">
+<p class="sansserif">Hello all. I live in Eau Claire, Wisconsin with my husband and our ten month old son. We have an Airedale Terrier, Gizmo, and a cat, Oliver.
+I taught middle and high school social studies for nine years until I resigned in the Spring of 2019 to stay home with our son while
+obtaining my graduate degree.
+I am a second year student the LIS program. However, since I only attend part time, I don't anticipate graduating until 2023.
+Upon graduation, I am hoping to reenter the workforce as a school librarian.
+Although my free time is in much shorter supply than it used to be, I enjoy reading, crocheting, and baking when I am not chasing after my son.
+My husband and I also love to travel and are looking forward to using our passports again when it is safe to do so.</p>
+</div class="b">
+
+<img src="CalandOliver.jpg" width=175" height="200" alt="Oliver and Baby" class="center">
+
+<div class="a">
+<h2 class="sansserif">Natalie Larimer</h2>
+</div class="a">
+
+<div class="a">
+<h2 class="sansserif">Sarah Olson</h2>
+</div class="a">
+
+<div class="a">
+<h2 class="sansserif">Assignment 1</h2>
+</div class="a">
+
+<div class="b">
+<p class="sansserif">Since we had three members in our group, it felt inauthentic to have one person assume the role of interviewer
+for the assignment. Instead, we decided to take turns introducing ourselves then discuss our tech hero.
+We were all prepared and felt comfortable interacting with one another. </p>
+
+<p class="sansserif">We did encounter some technical difficulties. We organized when and how we were going to meet and record through Google Hangouts.
+Initially, we planned on using Elizabeth's Zoom account to record the assignment. However, there were some audio issues on Elizabeth's end.
+We attempted to circumvent the issue by having Natalie record the Zoom meeting and send the file to Elizabeth to upload. However, we were unable to open the file.
+After unsuccessfully searching for another medium to record the assignment, we tried Zoom a second time. Elizabeth was able to solve the audio issue and was able to
+successfully record on our second attempt. As the Zoom account owner, this made it much easier to record and upload the assignment.</p>
+
+<p class="sansserif">Although there was certainly some frustration with the seemingly constant technological issues, we worked together to try and find solutions. All three
+group members offered suggestions and patiently encouraged each other. We supported one another and did not let our frustrations impact the work we were trying to do.</p>
+
+ <div class="a">
+	<h2 class="sansserif">Links</h2>
+
+
+
+		<p class="sansserif"><p><a href="https://reshmasaujani.com/">Reshma Saujani</a></p>
+
+
+
+</div class="a">
+
+</div class="b">
+
+</body>
+</html>
